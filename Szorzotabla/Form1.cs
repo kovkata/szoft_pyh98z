@@ -26,7 +26,7 @@ namespace Szorzotabla
             }
 
 
-            //Button button  = new();  
+          
             //ntrols.Add(button);   
             //tton.Text = "OK"; 
         }
